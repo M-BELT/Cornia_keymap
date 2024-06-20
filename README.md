@@ -6,13 +6,13 @@ Je recommande la disposition Colemak, puisqu'elle est adaptée à l'écriture du
 ## Disposition Colemak
 Voici une version relativement simple basée sur la disposition Colemak :
 
-![3D Top view](Colemak\Colemak_niveau_1\Colemak_niveau-1.png)
+![3D Top view](./Colemak/Colemak_niveau_1/Colemak_niveau-1.png)
 
 
 ## Disposition Azerty
 Voici une version relativement simple basée sur la disposition Azerty  :
 
-![3D Top view](Azerty\Azerty_niveau_1\Azerty_niveau-1.png)
+![3D Top view](./Azerty/Azerty_niveau_1/Azerty_niveau-1.png)
 
 ## Firmware et Hardware
 
@@ -29,7 +29,7 @@ Les images ci-dessus ont été créées à partir de [keyboard layout editor](ht
 
 ## A l'avenir 
 
-Dans les prochaines semaines je compléterai ce dépôt, avec notamment des explications détaillées des fonctionnalités des layers qui sont actuellement incluses dans les firmwares de vos claviers (les versions [colemak_niveau_1](Colemak\Colemak_niveau_1) et [azerty_niveau_1](Azerty\Azerty_niveau_1) sont pré-flashées sur vos claviers).
+Dans les prochaines semaines je compléterai ce dépôt, avec notamment des explications détaillées des fonctionnalités des layers qui sont actuellement incluses dans les firmwares de vos claviers (les versions [colemak_niveau_1](Colemak/Colemak_niveau_1) et [azerty_niveau_1](Azerty/Azerty_niveau_1) sont pré-flashées sur vos claviers).
 
 
 
