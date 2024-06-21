@@ -1,7 +1,7 @@
 # Cornia
 ![photo_generale](./photo-generale.png)
 # Mapping du Cornia
-Pour commencer à apprendre à écrire sur le Cornia, je vous propose deux mapping : l'un basé sur la disposition Colemak, et l'autre sur l'Azerty.
+Pour commencer à apprendre à écrire sur le Cornia, je propose deux mapping : l'un basé sur la disposition Colemak, et l'autre sur l'Azerty.
 
 Je recommande la disposition Colemak, puisqu'elle est adaptée à l'écriture du français sur un clavier d'ordinateur (et de l'anglais), contrairement à la disposition Azerty qui est elle adaptée pour écrire du français uniquement sur une machine à écrire, or nous écrivons sur un clavier informatique depuis longtemps ...
 
@@ -17,6 +17,10 @@ Voici une version relativement simple basée sur la disposition Colemak :
 Voici une version relativement simple basée sur la disposition Azerty  :
 
 ![3D Top view](./Azerty/Azerty_niveau_1/Azerty_niveau-1.png)
+
+## Pour s'entrainer
+
+Pour apprendre ce nouveau mapping, je vous recommande les sites suivants : [keybr](https://www.keybr.com/fr/index) et [monkeytype](https://monkeytype.com/). Il est préférable de commencer avec keybr étant donné que ce site permet d'apprendre peu de lettres, puis d'ajouter progressivement des lettres ; Monkeytype est très bien une fois l'emplacement de toutes les lettres globalement maitrisé.
 
 ## Firmware et Hardware
 
