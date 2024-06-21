@@ -1,3 +1,5 @@
+# Cornia
+![photo_generale](./photo-generale.png)
 # Mapping du Cornia
 Pour commencer à apprendre à écrire sur le Cornia, je vous propose deux mapping : l'un basé sur la disposition Colemak, et l'autre sur l'Azerty.
 
