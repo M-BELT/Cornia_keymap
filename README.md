@@ -3,6 +3,8 @@ Pour commencer à apprendre à écrire sur le Cornia, je vous propose deux mappi
 
 Je recommande la disposition Colemak, puisqu'elle est adaptée à l'écriture du français sur un clavier d'ordinateur (et de l'anglais), contrairement à la disposition Azerty qui est elle adaptée pour écrire du français uniquement sur une machine à écrire, or nous écrivons sur un clavier informatique depuis longtemps ...
 
+**Attention** : à l'heure actuelle il faut brancher le cable USB sur la moitié gauche du clavier.
+
 ## Disposition Colemak
 Voici une version relativement simple basée sur la disposition Colemak :
 
@@ -29,7 +31,7 @@ Les images ci-dessus ont été créées à partir de [keyboard layout editor](ht
 
 ## A l'avenir 
 
-Dans les prochaines semaines je compléterai ce dépôt, avec notamment des explications détaillées des fonctionnalités des layers qui sont actuellement incluses dans les firmwares de vos claviers (les versions [colemak_niveau_1](Colemak/Colemak_niveau_1) et [azerty_niveau_1](Azerty/Azerty_niveau_1) sont pré-flashées sur vos claviers).
+Dans les prochaines semaines je compléterai ce dépôt, avec notamment des explications détaillées des fonctionnalités des layers qui sont actuellement incluses dans le firmware de vos claviers (les versions [colemak_niveau_1](Colemak/Colemak_niveau_1) et [azerty_niveau_1](Azerty/Azerty_niveau_1) sont pré-flashées sur vos claviers).
 
 
 
